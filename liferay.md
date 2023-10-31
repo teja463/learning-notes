@@ -9,3 +9,4 @@
 ## Organizations
 
 * Organization Sites are owned by Organization Administrators, who have permissions similar to the Site Administrators: they can manage the Site’s pages, widgets, 
+* Organization Admin/Owner cant assing existing users to an organization
