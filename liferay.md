@@ -8,5 +8,9 @@
 
 ## Organizations
 
-* Organization Sites are owned by Organization Administrators, who have permissions similar to the Site Administrators: they can manage the Site’s pages, widgets, 
+* After creating an Organization, assign a user to the Organization Owner Role. The Organization Owner can do everything that an Organization Administrator can, within the context of the assigned organization. In addition, Organization Owners can do these things:
+  * Appoint other Users to be Organization Administrators
+  * Appoint other Users to be Organization Owners
+  * Remove the memberships of other Organization Administrators or Owners
+* Organization Administrators can’t make these Role assignments and can’t manage the memberships of other Organization Administrators or Owners
 * Organization Admin/Owner cant assing existing users to an organization
